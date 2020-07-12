@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="73b114c3-5cdc-4051-9a0c-7e61a34624f7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/HRV.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCRtest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReactNative-snapshot-image2133936878831260733.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReactNative-snapshot-image2148816711250379566.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TrainingDiaryUpdate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fitbitPyTest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gather_keys_oauth2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/minuteSleep.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/minutesStagesSleep.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results_heart.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scrathTuple.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1bv1ty8bNZlwLddxf1dWyDyvysl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.fitbitPyTest">
+    <configuration name="OCRtest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TrainingDiaryLean" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OCRtest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TrainDiaryUpdate" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TrainingDiaryLean" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TrainDiaryUpdate" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="TrainingDiaryLean" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/../JSON_reader/venv2/bin/python" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="fitbitPyTest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TrainingDiaryLean" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fitbitPyTest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="scrathTuple" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TrainingDiaryLean" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scrathTuple.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.OCRtest" />
+      <item itemvalue="Python.TrainDiaryUpdate" />
+      <item itemvalue="Python.Unnamed" />
+      <item itemvalue="Python.fitbitPyTest" />
+      <item itemvalue="Python.scrathTuple" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.fitbitPyTest" />
+        <item itemvalue="Python.TrainDiaryUpdate" />
+        <item itemvalue="Python.OCRtest" />
+        <item itemvalue="Python.scrathTuple" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="73b114c3-5cdc-4051-9a0c-7e61a34624f7" name="Default Changelist" comment="" />
+      <created>1589497971679</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589497971679</updated>
+    </task>
+    <task id="LOCAL-00001" summary="uploaded settings">
+      <created>1590792797857</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590792797857</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="uploaded settings" />
+    <option name="LAST_COMMIT_MESSAGE" value="uploaded settings" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="100" y="61" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589498166427">
+      <screen x="0" y="23" width="1366" height="745" />
+    </state>
+    <state x="100" y="61" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1366.745@0.23.1366.745" timestamp="1589498166427" />
+    <state x="425" y="149" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1590921038590">
+      <screen x="0" y="23" width="1366" height="745" />
+    </state>
+    <state x="425" y="149" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1366.745@0.23.1366.745" timestamp="1590921038590" />
+    <state x="412" y="23" key="CommitChangelistDialog2" timestamp="1590792797450">
+      <screen x="0" y="23" width="1366" height="745" />
+    </state>
+    <state x="412" y="23" key="CommitChangelistDialog2/0.23.1366.745@0.23.1366.745" timestamp="1590792797450" />
+    <state width="1345" height="233" key="GridCell.Tab.0.bottom" timestamp="1592743233183">
+      <screen x="0" y="23" width="1366" height="745" />
+    </state>
+    <state width="1345" height="233" key="GridCell.Tab.0.bottom/0.23.1366.745@0.23.1366.745" timestamp="1592743233183" />
+    <state width="1345" height="233" key="GridCell.Tab.0.center" timestamp="1592743233182">
+      <screen x="0" y="23" width="1366" height="745" />
+    </state>
+    <state width="1345" height="233" key="GridCell.Tab.0.center/0.23.1366.745@0.23.1366.745" timestamp="1592743233182" />
+    <state width="1345" height="233" key="GridCell.Tab.0.left" timestamp="1592743233181">
+      <screen x="0" y="23" width="1366" height="745" />
+    </state>
+    <state width="1345" height="233" key="GridCell.Tab.0.left/0.23.1366.745@0.23.1366.745" timestamp="1592743233181" />
+    <state width="1345" height="233" key="GridCell.Tab.0.right" timestamp="1592743233182">
+      <screen x="0" y="23" width="1366" height="745" />
+    </state>
+    <state width="1345" height="233" key="GridCell.Tab.0.right/0.23.1366.745@0.23.1366.745" timestamp="1592743233182" />
+    <state width="1345" height="233" key="GridCell.Tab.1.bottom" timestamp="1592743233187">
+      <screen x="0" y="23" width="1366" height="745" />
+    </state>
+    <state width="1345" height="233" key="GridCell.Tab.1.bottom/0.23.1366.745@0.23.1366.745" timestamp="1592743233187" />
+    <state width="1345" height="233" key="GridCell.Tab.1.center" timestamp="1592743233185">
+      <screen x="0" y="23" width="1366" height="745" />
+    </state>
+    <state width="1345" height="233" key="GridCell.Tab.1.center/0.23.1366.745@0.23.1366.745" timestamp="1592743233185" />
+    <state width="1345" height="233" key="GridCell.Tab.1.left" timestamp="1592743233184">
+      <screen x="0" y="23" width="1366" height="745" />
+    </state>
+    <state width="1345" height="233" key="GridCell.Tab.1.left/0.23.1366.745@0.23.1366.745" timestamp="1592743233184" />
+    <state width="1345" height="233" key="GridCell.Tab.1.right" timestamp="1592743233186">
+      <screen x="0" y="23" width="1366" height="745" />
+    </state>
+    <state width="1345" height="233" key="GridCell.Tab.1.right/0.23.1366.745@0.23.1366.745" timestamp="1592743233186" />
+    <state x="192" y="34" key="SettingsEditor" timestamp="1592698222073">
+      <screen x="0" y="23" width="1366" height="745" />
+    </state>
+    <state x="192" y="34" key="SettingsEditor/0.23.1366.745@0.23.1366.745" timestamp="1592698222073" />
+    <state x="400" y="135" key="Vcs.Push.Dialog.v2" timestamp="1590792825564">
+      <screen x="0" y="23" width="1366" height="745" />
+    </state>
+    <state x="400" y="135" key="Vcs.Push.Dialog.v2/0.23.1366.745@0.23.1366.745" timestamp="1590792825564" />
+    <state x="506" y="152" width="588" height="486" key="find.popup" timestamp="1590539198639">
+      <screen x="0" y="23" width="1366" height="745" />
+    </state>
+    <state x="506" y="152" width="588" height="486" key="find.popup/0.23.1366.745@0.23.1366.745" timestamp="1590539198639" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
