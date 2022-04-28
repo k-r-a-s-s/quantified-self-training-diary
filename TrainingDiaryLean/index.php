@@ -18,8 +18,8 @@ if (!function_exists('str_putcsv')) {
 use djchen\OAuth2\Client\Provider\Fitbit;
 
 $provider = new Fitbit([
-    'clientId'          => '22DPLQ',
-    'clientSecret'      => 'b253b61b1fe34cf14d83fad52b34c792',
+    'clientId'          => '  ',
+    'clientSecret'      => '  ',
     'redirectUri'       => 'http://localhost:8080/'
 ]);
 
@@ -130,7 +130,7 @@ if (!isset($_GET['code'])) {
         
         
         ///save token
-        $fp = fopen('lidn.txt', 'w');
+        $fp = fopen('creds/FitBitCred.txt', 'w');
         fwrite($fp, $accessToken);
         fclose($fp);
 
