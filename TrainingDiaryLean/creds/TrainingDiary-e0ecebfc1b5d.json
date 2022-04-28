@@ -1,12 +1,12 @@
 {
   "type": "service_account",
   "project_id": "trainingdiary",
-  "private_key_id": "e0ecebfc1b5da753b98f966ab8c5cec931c1c887",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCywJ6CBZkIqcCa\n51uKmIeqtt8Yb/sP6pB9gnAxDVjNEuBXqBV85KlJbctBZAEEbVAxTf6AbfjOzzqV\ne5sDZ5sP8NZMV/DctPUe0qt/NjaXFRxD8T/5yJPkwM6vSfmNogDhLWPWf0imTcF8\nuNjLrMQLmami1n+0gP5GGR8hcPcL0rjTrmzrGyRyP5tGzMy0D2dY8hnsUGuxKmDn\n2/RhrX3tg3AnytJpOQgAjAg6JB6J5w46vcKCDx8N8+l1W3Xv46+9T/0l1HKwcEfn\nata6dec66cOA+h9P0OFVtuSqabgLcYQvBiXZK84RJxETokhXl4f2J+9XLtasF8PM\nbEAODsdVAgMBAAECggEARZppXjmtyEjJPcgexg30rc29ezeHbEAq+SREaWVIEbpq\n7tb9Xv9ux6/f+FtnZgDmu/whwIKR4n2g0zopNx8tqvxdhaasnFQ+Kj1gGA3VHelT\nc0VKYwnuRKGrGWhVqwfNDeFtwcUYVeFrGRSlHlHsmJPCES0y1udvm34GuC/Tkp9Z\nTsOhDgt9iiDARNDeGRWo0QuH003i/S6Q4vLwcrKsRWQORsyqWecH/QvnVb7Zb2dZ\n+FSR0GRY+Xr7mU/ng8qDYpNVCYAvP1jqd9tWdy9Ru1govzHzj4bU87cB0yYfF4Q3\nu/rIIb6LtmN4vgkJ7mKfvvFT/SoU/mWoxlJNxUmrlQKBgQDV8tue/S1O/zr2VvAH\ninLxVF9tUmUuQlZdrCpSA0Ikq3hrbzOkd/TpoIDQKH9iGk/KP+VrO0Dg32mPf4Df\nTtVlgMEQz17ps5T2q+Clm5iApsrtPR2UEaQex4IYi4fyDiLmkkkIbUBCbJZE16tl\nrcaDDvG3nPh7dZc3s3KnPaQgqwKBgQDV4s90o+EY/zBRiZPPZ8pTvgvb5Hzbl7jW\nAUK/2xKRbNCqybced8H/fydBAC0n6db+UpjrNw3e3KbZzUpdIVdo2kAEdKmXo4W9\nBqJlLhhePE2+lizKTsDdIlXYtXqdVZ+ZcnW1N3KCCHhJ94zUhj0FAgF91ZQFZYY+\nWgzTrKi3/wKBgAZlLwlumfcdi/6nFJ+1FMB//CZBa0LZusksB0vSSxzbf0r+1PVa\nnJiLMq6GN2CQVsg95raw27ydEQO4FPsX2SsikSLWgAjOVGqXMqzgnMtjsPcsd4Dg\nkh5Val8fdJ3YrFRmFQbKdTxHEKrYI4hzjFaIkNMjPw45sp54n7m+DvTnAoGAc8x6\neTIIutnetSaBSjdtSW2JSiIon1NDlUnVc74ODYIWb4EKjYpVFBkpjX2k9Qkbh1H8\nzMxfzBs2kpEdA9L7Wh9frYnkD99OlwqyfYk5VDvd86Om2FlO/eqLA+stWWV0JUXd\nCKHecxxW0+Uc8CtFeiKd4Bz0KP/QcI2ciDXgms0CgYEArcSp0voz5A3hXqDwC6lz\n19Rq8nJQsbmAAKMKA+t/L6W+gC9jcot2O5VfD0PKr/Az7QsJmESRu1KNkc/Nc0Vc\ndVp9Uk80wGvkow0/O+Hpj1VwdJ7xHvMYhmSPTIs7GMQtsG1mZNqTdFJRLYMkC5ff\ngFA4j42j5Qt8QmPs6nOLJFE=\n-----END PRIVATE KEY-----\n",
-  "client_email": "rasskool@trainingdiary.iam.gserviceaccount.com",
-  "client_id": "105768987836939966303",
+  "private_key_id": "",
+  "private_key": "-----BEGIN PRIVATE KEY-----\   \n-----END PRIVATE KEY-----\n",
+  "client_email": "  ",
+  "client_id": "  ",
   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
   "token_uri": "https://oauth2.googleapis.com/token",
   "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/rasskool%40trainingdiary.iam.gserviceaccount.com"
+  "client_x509_cert_url": "  "
 }
